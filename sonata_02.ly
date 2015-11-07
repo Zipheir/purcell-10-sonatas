@@ -1,6 +1,7 @@
 \version "2.18.2"
 
 \include "config.ly"
+\include "macs.ly"
 
 \header {
 	title    = "Sonata II"
@@ -9,23 +10,7 @@
 	tagline  = ""
 }
 
-adag = \markup { \bold Adagio }
-aleg = \markup { \bold Allegro }
-canz = \markup { \bold "Canzona. Allegro." }
-grav = \markup { \bold Grave }
-larg = \markup { \bold Largo }
-
-parp = \markup {
-	\center-align \concat {
-		\bold { \italic ( }
-		\dynamic p
-		\bold { \italic ) }
-	}
-}
-
-% macros for long stuff
-exton  = { \bassFigureExtendersOn }
-extoff = { \bassFigureExtendersOff }
+canzaleg = \markup { \bold "Canzona. Allegro." }
 
 vlone = \relative c'' {
 	\clef treble \key es \major \time 4/4
@@ -50,7 +35,7 @@ vlone = \relative c'' {
 	f4. es8 es2 \bar "||"
 
 	% canzona
-	\mark \canz
+	\mark \canzaleg
 	\time 2/2 r4 es'4. es8 d c
 	bes c16 d es4. f16 es d4                        % m 20
 	es d c8 d es4 ~

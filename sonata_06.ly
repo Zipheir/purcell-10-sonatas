@@ -1,6 +1,7 @@
 \version "2.18.2"
 
 \include "config.ly"
+\include "macs.ly"
 
 \header {
 	title    = "Sonata VI"
@@ -8,12 +9,6 @@
 	composer = "Henry Purcell"
 	tagline  = ""
 }
-
-adag = \markup { \bold Adagio }
-
-% macros for long stuff
-exton  = { \bassFigureExtendersOn }
-extoff = { \bassFigureExtendersOff }
 
 vlone = \relative c'' {
 	\clef treble \key g \minor \time 3/4

@@ -1,6 +1,7 @@
 \version "2.18.2"
 
 \include "config.ly"
+\include "macs.ly"
 
 \header {
 	title    = "Sonata VII"
@@ -8,13 +9,6 @@
 	composer = "Henry Purcell"
 	tagline  = ""
 }
-
-adag = \markup { \bold "Adagio/Grave" }
-aleg = \markup { \bold Allegro }
-canz = \markup { \bold Canzona }
-grav = \markup { \bold Grave }
-larg = \markup { \bold Largo }
-viv  = \markup { \bold Vivace }
 
 vlone = \relative c''' {
 	\clef treble \key c \major \time 2/2

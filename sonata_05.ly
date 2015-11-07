@@ -1,6 +1,8 @@
 \version "2.18.2"
 
 \include "config.ly"
+\include "macs.ly"
+\include "macs.ly"
 
 \header {
 	title    = "Sonata V"
@@ -8,24 +10,6 @@
 	composer = "Henry Purcell"
 	tagline  = ""
 }
-
-adag = \markup { \bold Adagio }
-aleg = \markup { \bold Allegro }
-canz = \markup { \bold Canzona }
-larg = \markup { \bold Largo }
-pres = \markup { \bold Presto }
-
-parp = \markup {
-	\center-align \concat {
-		\bold { \italic ( }
-		\dynamic p
-		\bold { \italic ) }
-	}
-}
-
-% macros for long stuff
-exton  = { \bassFigureExtendersOn }
-extoff = { \bassFigureExtendersOff }
 
 vlone = \relative c''' {
 	\clef treble \key g \minor \time 4/4

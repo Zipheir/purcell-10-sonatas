@@ -1,6 +1,7 @@
 \version "2.18.2"
 
 \include "config.ly"
+\include "macs.ly"
 
 \header {
 	title    = "Sonata III"
@@ -8,23 +9,6 @@
 	composer = "Henry Purcell"
 	tagline  = ""
 }
-
-adag = \markup { \bold Adagio }
-canz = \markup { \bold Canzona }
-grav = \markup { \bold Grave }
-larg = \markup { \bold Largo }
-
-parp = \markup {
-	\center-align \concat {
-		\bold { \italic ( }
-		\dynamic p
-		\bold { \italic ) }
-	}
-}
-
-% macros for long stuff
-exton  = { \bassFigureExtendersOn }
-extoff = { \bassFigureExtendersOff }
 
 vlone = \relative c''' {
 	\clef treble \key a \minor \time 4/4
