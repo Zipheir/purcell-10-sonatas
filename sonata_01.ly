@@ -455,7 +455,7 @@ bass = \relative c' {
 	cis,1 fis2
 	b,2. cis4 d2                                         % m 88
 	e fis fis,
-	b1 b'2
+	b1 b'2_\parp
 	e,1 a2
 	d,1 g2                                               % m 92
 	cis,1 fis2
@@ -621,7 +621,7 @@ cont = \relative c' {
 	cis,1 fis2
 	b,1 d2                                    % m 88
 	e fis fis,
-	b1 b'2
+	b1 b'2_\parp
 	e,1 a2
 	d,1 g2                                    % m 92
 	cis,1 fis2
