@@ -179,7 +179,7 @@ vlone = \relative c''' {
 	c, f2 bes,4 es d8 c
 	d4 f bes2 g4 c
 	f, bes2 a8 g a4 d,
-	g2 f e                                        % m 152
+	g2 f es                                       % m 152
 	d4 bes' a bes a8 g fis e
 	d2 r r
 	r4 bes' a g g4. fis8
