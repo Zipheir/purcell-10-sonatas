@@ -218,7 +218,7 @@ vlone = \relative c''' {
 	\mark \adag
 	\time 4/4 r4 e' d2
 	r4 d c2
-	b r4 f
+	b r4 f'
 	e2 r4 e                            % m 192
 	d2 c4 c
 	d e2 d4
@@ -888,7 +888,7 @@ figb = \figuremode {
 	r2.
 	<6+>                            % m 40
 	r
-	<7>4 <5>2
+	<7>4 <5 _+>2
 	<4>4 <3+> r
 	<7> <5>2                        % m 44
 	<9 4>4 <8 5> r
@@ -924,7 +924,7 @@ figb = \figuremode {
 	<7> <3- 6> <9-> r
 	<9 3+>2 <9 3>
 	<9>4 <3> <4 2> r
-	<5-> <_-> r2                    % m 76
+	<5> <_-> r2                     % m 76
 
 	% canzona
 	r1*3
