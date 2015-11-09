@@ -233,7 +233,7 @@ vlone = \relative c''' {
 	bes r a
 	a r g
 	g r fis
-	g r d                           % m 212
+	g r d\p                         % m 212
 	d r c
 	c r bes
 	a r a
