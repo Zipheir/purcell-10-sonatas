@@ -70,7 +70,7 @@ vlone = \relative c'' {
 	d g16 d e b c g a8 a b c                      % m 52
 	f, bes g c f, bes'16 f g d es d
 	c f es d c8. bes16 bes8 bes' a g
-	fis8 b16 fis g d e f e8 f f8. e16
+	fis8 bes16 fis g d e f e8 f f8. e16
 	f8 d c b a a' g f                             % m 56
 	e a16 g f cis d e f4 r
 	r2 r8 a f e
@@ -640,7 +640,7 @@ cont = \relative c'' {
 	es8 c d d, g4 a8 b
 	c4 a8 b cis d a a'
 	bes g c e, f4 g8 a                            % m 52
-	bes g c a bes bes, e,4
+	bes g c a bes bes, es,4
 	f8 bes f4 bes c
 	d g, c8 f, c'4
 	f,8 f' e d cis a d f,                         % m 56
