@@ -422,8 +422,8 @@ vltwo = \relative c'' {
 	c c4. d8 c4. bes8                     % m 172
 	a2 d a
 	d e fis
-	g g, bes ~
-	bes a fis                             % m 176
+	g g, bes
+	bes( a) fis                           % m 176
 	bes( a) d,
 	g( fis) bes,
 	g' fis2. g4
