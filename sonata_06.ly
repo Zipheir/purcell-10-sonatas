@@ -10,6 +10,8 @@
 	tagline  = ""
 }
 
+parq = \markup { "(?)" }
+
 vlone = \relative c'' {
 	\clef treble \key g \minor \time 3/4
 	\mark \adag
@@ -217,7 +219,7 @@ vlone = \relative c'' {
 	bes a bes c d4 ~
 	d8 es c4. d16 a                                  % m 200
 	bes4 es4. es8
-	es4 d4. bes8
+	es4 d4. bes8^\parq
 	d4 c4. c8
 	c4 bes4. bes8                                    % m 204
 	a4 a4. a8
