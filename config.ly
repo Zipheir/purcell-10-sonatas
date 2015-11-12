@@ -10,3 +10,5 @@
 	bottom-margin = 40\pt
 	system-system-spacing #'minimum-distance = #14
 }
+
+\pointAndClickOff    % disable textedit links
