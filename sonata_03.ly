@@ -531,141 +531,142 @@ cont = \relative c' {
 	a8 b a g f4
 	e8 f e d c4
 	d b e
-	c a a' b g c                              % m 24
+	c a a'                                    % m 24
+	b g c
 	g8 a g f e4
 	a g g,
-	c2. \bar "||"
-	\clef treble e''8 f g f e d               % m 28
+	c2. \bar "||"                             % m 28
+	\clef treble e''8 f g f e d
 	a g f g a b
 	c4 c2 ~
-	c4 b2
-	\clef bass a,8 b c b a g                  % m 32
+	c4 b2                                     % m 32
+	\clef bass a,8 b c b a g
 	f e d e f d
 	e4 e,2
-	a2.
-	a'2 ~ a8 g                                % m 36
+	a2.                                       % m 36
+	a'2 ~ a8 g
 	f e d e f g
 	a4 a,2
-	b c4
-	a b2                                      % m 40
+	b c4                                      % m 40
+	a b2
 	e gis,4
 	a2.
-	b
-	c                                         % m 44
+	b                                         % m 44
+	c
 	d
 	e ~
-	e ~
-	e2 c4                                     % m 48
+	e ~                                       % m 48
+	e2 c4
 	d e e,
 	a2. \bar "||"
 
 	% adagio
-	\time 4/4 e1
-	e'4 a g f                                 % m 52
+	\time 4/4 e1                              % m 52
+	e'4 a g f
 	e d a' e
 	fis gis a a,
-	b c d d,
-	a g f2                                    % m 56
+	b c d d,                                  % m 56
+	a g f2
 	g4 g' a e
 	f d g g,
-	c2 d
-	e a                                       % m 60
+	c2 d                                      % m 60
+	e a
 	g f
 	e4 e, f g
-	a2 e'4 a
-	g f e c'                                  % m 64
+	a2 e'4 a                                  % m 64
+	g f e c'
 	b b, c d
 	e d, e2
 
 	% canzona
-	a4 \clef treble a''' e g
-	c, e a,8. b16 c8. d16                     % m 68
+	a4 \clef treble a''' e g                  % m 68
+	c, e a,8. b16 c8. d16
 	e8. fis16 e4 a, c
 	g b e,8. f16 g8. a16
-	b8. cis16 d4. d8 \clef bass a,4
-	e g c, e                                  % m 72
+	b8. cis16 d4. d8 \clef bass a,4           % m 72
+	e g c, e
 	a,8. b16 c8. d16 e8 f g e
 	f e d b c b16 a gis8 e
-	a b a g f e d4
-	g e a a'8 g                               % m 76
+	a b a g f e d4                            % m 76
+	g e a a'8 g
 	f4. g8 a4 e
 	f c d a
-	c2 b
-	e4 c g' e                                 % m 80
+	c2 b                                      % m 80
+	e4 c g' e
 	a8. g16 f8. e16 d4 g ~
 	g a b c ~
-	c8 a d4 b g8 e
-	a4 d, g c,                                % m 84
+	c8 a d4 b g8 e                            % m 84
+	a4 d, g c,
 	d e a, c
 	g b e,4. f8
-	g2 gis4 a
-	e'2 f4 d                                  % m 88
+	g2 gis4 a                                 % m 88
+	e'2 f4 d
 	e4. d8 c4 a
 	e2 a4 d
-	g, b e,8. f16 gis8. a16
-	b2 \clef treble e'4 a                     % m 92
+	g, b e,8. f16 gis8. a16                   % m 92
+	b2 \clef treble e'4 a
 	d, g c, e
 	f \clef bass a,, e' c
-	g' e a2
-	d,4 g c, e                                % m 96
+	g' e a2                                   % m 96
+	d,4 g c, e
 	a, d g, g'
 	c2 b
-	a gis
-	a g                                       % m 100
+	a gis                                     % m 100
+	a g
 	f e
 	d c4 a
-	e1
-	e2 a \bar "||"                            % m 104
+	e1                                        % m 104
+	e2 a \bar "||"
 
 	\time 9/8
 	\set Staff.timeSignatureFraction = 9/6
 	\clef treble e'''4 a8 g e c d b e
 	a,4 e'8 c a g a fis b
-	\clef bass e,,4 a8 g e c d b e
-	a,4 g8 f4 e8 d4.                          % m 108
+	\clef bass e,,4 a8 g e c d b e            % m 108
+	a,4 g8 f4 e8 d4.
 	e4 \clef treble e'''8 d b gis a fis b
 	gis e c' b gis a fis gis e
-	\clef bass a,4 d8 c a f g e a
-	d, e f g4 f8 e4.                          % m 112
+	\clef bass a,4 d8 c a f g e a             % m 112
+	d, e f g4 f8 e4.
 	a4 g8 f4. g4 f8
 	e4 a8 d, e f g4 g,8
-	c4 \clef treble g'''8 e f g c, d c
-	a b c f, g a d, e f                       % m 116
+	c4 \clef treble g'''8 e f g c, d c        % m 116
+	a b c f, g a d, e f
 	e4 \clef bass e,8 c d e a, b c
 	f, g a d, e f g4 f8
-	e4. ~ e4 e8 f4 e8
-	d4 d'8 g,4. a                             % m 120
+	e4. ~ e4 e8 f4 e8                         % m 120
+	d4 d'8 g,4. a
 	d ~ d4 d8 e4 f8
 	g4. c b
-	a a, b4 c8
-	d4 b8 c4. d                               % m 124
+	a a, b4 c8                                % m 124
+	d4 b8 c4. d
 	g, c4 b8 a4.
 	b4 g8 a4. b
-	e,4 \clef treble e''8 gis b c e c a
-	f a c d b g e g b                         % m 128
+	e,4 \clef treble e''8 gis b c e c a       % m 128
+	f a c d b g e g b
 	c a f d f a b4 a8
 	gis4 gis8 a4 g8 f4 f8
-	g4 f8 e4 a8 f f e
-	d4 g8 e4 fis8 gis4.                       % m 132
+	g4 f8 e4 a8 f f e                         % m 132
+	d4 g8 e4 fis8 gis4.
 	\clef bass a,4 a,8 c e g a f d
 	b d f g e c a c e
-	f d b g b d e c a
-	f4 e8 d4. e4 f8                           % m 136
+	f d b g b d e c a                         % m 136
+	f4 e8 d4. e4 f8
 	g4. g'4 f8 e4 a8
 	f4 e8 d4 g8 e4 d8
-	c4. c'4 b8 a4 d8
-	b4 a8 g4 c8 a4 g8                         % m 140
+	c4. c'4 b8 a4 d8                          % m 140
+	b4 a8 g4 c8 a4 g8
 	f4. ~ f4 e8 d4.
 	e4 d8 c4. d4 c8
-	b4. c4 b8 a4 a'8
-	d,4 g8 c,4 d8 e4 e,8                      % m 144
+	b4. c4 b8 a4 a'8                          % m 144
+	d,4 g8 c,4 d8 e4 e,8
 	a4 c8 a'4_\parp g8 f4 e8
 	d4 g8 c,4 d8 e4 e,8
 	\unset Staff.timeSignatureFraction
 
 	% grave
-	\time 4/4 a4 a' gis g
-	fis gis a a,                              % m 148
+	\time 4/4 a4 a' gis g                     % m 148
+	fis gis a a,
 	g f e d
 	e2 a \bar "|."
 }
