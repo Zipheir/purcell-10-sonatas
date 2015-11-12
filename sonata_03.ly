@@ -564,7 +564,7 @@ cont = \relative c' {
 	e'4 a g f                                 % m 52
 	e d a' e
 	fis gis a a,
-	b c d f,
+	b c d d,
 	a g f2                                    % m 56
 	g4 g' a e
 	f d g g,
