@@ -1,6 +1,27 @@
-The MS does not use natural signs. Instead, sharps are used to indicate
-flat pitches that have been naturalized. I have used natural signs in
-staves and in the figured bass.
+Henry Purcell — 10 Sonatas of Four Parts, Z 802–811
+Published posthumously in 1697
+
+This edition was produced directly from the J. Heptinstall edition
+of 1697, using a PDF copy from IMSLP[0]. It is a verbatim transcription,
+except for the following changes:
+
+    * Meters are printed in modern fractional style.
+
+    * Accidentals apply throughout the measure in which they appear.
+
+    * The MS does not use natural signs. Instead, sharps are used to
+      indicate flat pitches that have been naturalized. I have used natural
+      signs in staves and in the figured bass.
+
+A few errors have been corrected and are listed in Specific Edits.
+
+A note on figured bass style: The figured bass in the MS switches between
+‘tonal’ and ‘intervallic’ style in several places. In the intervallic
+style, bass figures take an altered bass note into account, while the
+tonal style does not. (For example, an F♯ bass with B♭ and D in the
+upper voices would be marked 6/4 in the tonal style and 6/♭4—or even
+6♭/4♭—in the intervallic style.) I have used the simpler tonal style
+throughout.
 
 General MS oddness:
 
@@ -11,6 +32,18 @@ to which they apply. Thus,
         6
 
 sometimes means ‘sixth, sharp third’ and sometimes ‘sharp sixth’.
+
+
+License
+=======
+
+This edition is in the public domain.
+
+
+Author
+======
+
+Wolfgang Corcoran-Mathe <first.lord.of.teal@gmail.com>
 
 
 Specific Edits
@@ -293,3 +326,9 @@ m 70: Amend second beat bass figure to 6/5 (MS has 6 — 5).
 
 m 75–77: Clean up bass figures. Only one figure—the 4/3 on the second
 beat of m 76—was actually wrong. The rest were muddled.
+
+
+Links
+=====
+
+[0] http://imslp.org/wiki/10_Sonatas_in_Four_Parts,_Z.802-811_(Purcell,_Henry)
