@@ -37,9 +37,7 @@ sometimes means ‘sixth, sharp third’ and sometimes ‘sharp sixth’.
 
 # License
 
-Since the source is in the public domain, this edition is as well. I
-do not claim any copyright on these scores or on the notes in this
-README.
+CC0. See LICENSE.txt for details.
 
 
 # Author
