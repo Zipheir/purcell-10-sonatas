@@ -1,17 +1,18 @@
-Henry Purcell — 10 Sonatas of Four Parts, Z 802–811
-Published posthumously in 1697
+# Henry Purcell — 10 Sonatas of Four Parts, Z 802–811
+
+Published posthumously in 1697.
 
 This edition was produced directly from the J. Heptinstall edition
 of 1697, using a PDF copy from IMSLP[0]. It is a verbatim transcription,
 except for the following changes:
 
-    * Meters are printed in modern fractional style.
+* Meters are printed in modern fractional style.
 
-    * Accidentals apply throughout the measure in which they appear.
+* Accidentals apply throughout the measure in which they appear.
 
-    * The MS does not use natural signs. Instead, sharps are used to
-      indicate flat pitches that have been naturalized. I have used natural
-      signs in staves and in the figured bass.
+* The MS does not use natural signs. Instead, sharps are used to
+  indicate flat pitches that have been naturalized. I have used natural
+  signs in staves and in the figured bass.
 
 A few errors have been corrected and are listed in Specific Edits.
 
@@ -34,24 +35,21 @@ to which they apply. Thus,
 sometimes means ‘sixth, sharp third’ and sometimes ‘sharp sixth’.
 
 
-License
-=======
+# License
 
 Since the source is in the public domain, this edition is as well. I
 do not claim any copyright on these scores or on the notes in this
 README.
 
 
-Author
-======
+# Author
 
 Wolfgang Corcoran-Mathe <wcm@sigwinch.xyz>
 
 
-Specific Edits
-==============
+# Specific Edits
 
-Sonata 1:
+## Sonata 1
 
 Changed vln. II m 43, beat 3, note 1 from C♯ to A♯. The C♯ in the
 MS is almost certainly a mistake. m 42–43 are a passage in thirds between
@@ -62,14 +60,14 @@ current key signature) if C♯ were really intended.
 m 8: Changed bass figure of last beat from 5 3 to 5 3♯ to match
 upper voices.
 
-MS oddness:
+### MS oddness
 
 The adagio opening is marked C-slash in vln. I & vln. II and C in bass and
 continuo. The canzona is marked C-slash in all voices except the bass,
 where it has no time signature. I have used 2/2 throughout both movements.
 
 
-Sonata 2:
+## Sonata 2
 
 m 12: Amended first two bass figures to 7 — 6. (MS has 6 — 7)
 
@@ -106,7 +104,7 @@ m 187: Removed bass figure on first beat. (♯7 or ♯/7—neither fits.)
 
 m 201: Added dynamic mark to vln. II and continuo.
 
-MS oddness:
+### MS oddness
 
 The grave movement is marked C-slash in vln. II and C in all other voices.
 I have used 4/4.
@@ -115,7 +113,7 @@ The adagio movement is marked C-slash in vln. I and C in all other voices.
 I have used 4/4.
 
 
-Sonata 3:
+## Sonata 3
 
 m 41: Amend second & third beat figured bass to 3 — 4. (MS has 4 — 3.)
 
@@ -131,13 +129,13 @@ sense. Change third beat bass figure to ♯3.
 
 m 68: Fix obvious typo in continuo. (MS has B on second beat.)
 
-MS oddness:
+### MS oddness
 
 The adagio and both grave movements are marked C-slash in vln. I and C in all
 other voices. I have used 4/4 for both.
 
 
-Sonata 4:
+## Sonata 4
 
 Note: Dynamic marks beginning at m 172 are reproduced from the MS exactly.
 
@@ -174,7 +172,7 @@ a little more likely here).
 m 145: Amend duration of D in vln. I. (MS has dotted-half.)
 
 
-Sonata 5:
+## Sonata 5
 
 The continuo lacks several accidentals found in the bass (mainly in the
 canzona), as someone seems to have gotten the staff and bass figure
@@ -201,7 +199,7 @@ m 161: Move dynamic mark in vln. II back 1 1/2 beats to match vln. I.
 m 167: Clean up bass figures.
 
 
-Sonata 6:
+## Sonata 6
 
 m 30, 45: Remove apparently meaningless second/third beat bass figure (♭).
 
@@ -249,7 +247,7 @@ m 216: Amend bass figures to 4/2 — 5/3. The MS bass figures, 7/5 — 6/4
 are inexplicable.
 
 
-Sonata 7:
+## Sonata 7
 
 Note: Dynamics are reproduced verbatim. The final section is marked
 ‘Adagio’ in vln. I, ‘Grave’ in continuo, and is unmarked in the other
@@ -268,7 +266,7 @@ m 143: Change B♮ to B♭ in continuo.
 m 182: Drop meaningless first-beat bass figure (♭5).
 
 
-Sonata 8:
+## Sonata 8:
 
 The vln. II part for the opening adagio is missing m 24. Replacing this
 measure with rests (as in some editions) leaves a nasty hole. I have
@@ -288,7 +286,7 @@ m 176: Assume vaguely-placed tie/slur applies to first two beats. This
 matches vln. I and the next two measures.
 
 
-Sonata 9:
+## Sonata 9
 
 The adagio movement is marked 3/3 in vln. I and 3/2 in all other parts.
 I have used 3/2.
@@ -310,7 +308,7 @@ m 122: Move bass figure (7) forward a beat to where it seems to apply.
 m 184: Amend second beat pitch in vln. II to E (MS has F).
 
 
-Sonata 10:
+## Sonata 10
 
 The canzona movement is marked 4/4 in bassus and 2/2 in all other parts.
 I have used 2/2.
@@ -330,7 +328,6 @@ m 75–77: Clean up bass figures. Only one figure—the 4/3 on the second
 beat of m 76—was actually wrong. The rest were muddled.
 
 
-Links
-=====
+# Links
 
 [0] http://imslp.org/wiki/10_Sonatas_in_Four_Parts,_Z.802-811_(Purcell,_Henry)
