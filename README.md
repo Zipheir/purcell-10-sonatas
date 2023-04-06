@@ -328,4 +328,4 @@ beat of m 76—was actually wrong. The rest were muddled.
 
 # Links
 
-[0] http://imslp.org/wiki/10_Sonatas_in_Four_Parts,_Z.802-811_(Purcell,_Henry)
+http://imslp.org/wiki/10_Sonatas_in_Four_Parts,_Z.802-811_(Purcell,_Henry)
